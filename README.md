@@ -20,7 +20,7 @@ Welcome to MinecraftV2, an immersive web-based version of the iconic Minecraft g
 
 ## How to Play 🎮
 
-1. Open [MinecraftV2](https://rishab-creator.github.io/minecraftV2) in your web browser.
+1. Open [MinecraftV2](https://rishabnotfound.github.io/minecraftV2) in your web browser.
 2. Log in or create a new account to access multiplayer features (optional).
 3. Choose single-player or multiplayer mode.
 4. Select survival mode for a challenging survival experience or creative mode for unlimited resources and building freedom.
