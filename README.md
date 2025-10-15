@@ -1,5 +1,7 @@
 # MinecraftV2 🌍
 
+<img width="1918" height="947" alt="image" src="https://github.com/user-attachments/assets/c7e7b897-dc87-411e-b721-9ac8324d69cf" />
+
 Welcome to MinecraftV2, an immersive web-based version of the iconic Minecraft game, featuring the real working version 1.5.2! Dive into a world of blocks, exploration, and adventure right from your web browser. Get ready to mine, craft, and build your way to endless possibilities! 🎮⛏️
 
 ## Features ✨
